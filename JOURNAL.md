@@ -28,3 +28,10 @@ The problem with this, as you might be able to see, is that it doesn't require t
 
 My next step is going to be trying to find the pins I need to interface with for the MAX232 chip this board has, and try to use the Glasgow to interface with it, see if I can read and/or write anything to it. Let's hope for the best...  
 
+## 11/3/2025 - The pain goes on  
+
+So, to no one's surprise, this proprietary machine does not have much info online. This means I've had to be just trying to figure out where everything goes, but not being able to see the backside of the PCB has so far been a major impediment. I'm working towards a full disassembly, so I can get the PCB all by itself, but, on the meantime, I've been trying stuff. I hooked up a logic analyzer, and my Glasgow Interface Explorer, and I'm now testing to see where each pin goes, and what it does (or does not) do. So far it's been pretty inconclusive so... Yeah, I need to keep trying, even if this is taking waaaay longer than I thought (and wanted it to) last :'(
+
+![IMG20251103115840](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--9aa9006c7b2f714056ebda354286de1684c437ae/IMG20251103115840.jpg)
+  
+
