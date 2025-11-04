@@ -35,3 +35,16 @@ So, to no one's surprise, this proprietary machine does not have much info onlin
 ![IMG20251103115840](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--9aa9006c7b2f714056ebda354286de1684c437ae/IMG20251103115840.jpg)
   
 
+## 11/4/2025 - Fully disassembled the controller, and breaking my head  
+
+Welp this is being fun, both in the literal, and in the sarcastic sense. I have fully removed the joysticks and buttons from the PCB, so all that remains is this board that is permanently sandwiched to the front controls, at least as far as my knowledge goes. It is NOT ideal, but, we work with what we have.
+
+It has been a bit grueling, but I have gotten at least a good amount far into reverse engineering this. I am working on learning what each pin on the connector leads to, and the secondary connector has been a huge help, since I have been able to make a few educated guesses about some pins thanks to it.
+
+For now I only know that pins 7, 10, and 13 are directly plugged into ground, that pins 8 and 9 act as VIN, going off to a linear voltage regulator that can take quite a voltage, and then pins 3 and 14 are hooked up to the E-STOP directly, so that is nice to know.
+
+Anyways,  here's to hoping that I will get some results out of this soon. >:3
+
+![IMG20251104205322](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--59d3b67a27dfea057501501c53f8ace080036901/IMG20251104205322.jpg)
+  
+
