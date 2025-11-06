@@ -48,3 +48,10 @@ Anyways,  here's to hoping that I will get some results out of this soon. >:3
 ![IMG20251104205322](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--59d3b67a27dfea057501501c53f8ace080036901/IMG20251104205322.jpg)
   
 
+## 11/6/2025 - Continued the journey  
+
+Welp this is being painful, but also really fun. Progress is really slow, because, well, it's a PCB of which I can only see one side. There's a lot of guessing (and even more missing) involved, and my tools sometimes decide they do not like the idea of cooperating with me. Anyways, it feels like I'm not going as slow as I expected either. I'm starting to get a pretty good map, if by pieces, of where everything is connected to, and improving upon old knowledge. Let's hope it continues this way, and that it doesn't take too long to have something at least *slightly* functional...
+
+![IMG20251106225323](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--4a9cc3b9bca5d7a188fdb64928c417a4150837ab/IMG20251106225323.jpg)
+  
+
