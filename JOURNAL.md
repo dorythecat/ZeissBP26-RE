@@ -55,3 +55,13 @@ Welp this is being painful, but also really fun. Progress is really slow, becaus
 ![IMG20251106225323](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--4a9cc3b9bca5d7a188fdb64928c417a4150837ab/IMG20251106225323.jpg)
   
 
+## 11/8/2025 - Extracted the chips, and got a better look at the logic  
+
+So, I've been doing some slightly riskier stuff. First, I wanted to check out the buzzer, since I thought "Hey, if I can track that down, I can probably guess what triggers it every time it turns on!" and that only led me to discover the mess that this is. The buzzer is wired permanently to VCC, but it is connected to gnd through a NOT gate. Which, first of all, you really did not need to use a quad not chip, that's really wasteful, and second, what the actual fuck? This feels like a crime.
+
+Anyways, that didn't lead too far, but I continued investigating the logic. Apparently it is using a few D Flip-Flops and some other logic gates for *something*, which I yet have to investigate further. For now.
+
+What I did after giving up on understanding this, when my brain started turning to mush, was trying to get the processor and the firmware EEPROM out of the board. In my mind, this was an easy task. In reality, this plastic is so old and brittle that I almost fucked up the entire firmware EEPROM's socket. Eventually, I got them out, but not without some pain inflicted upon my poor little heart. So, that was fun... Remind me why I torture myself like this once again?!?
+
+![IMG20251108004548](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--03d4b18310f8fd85b9f7836136c7c9659db76df0/IMG20251108004548.jpg)  
+
